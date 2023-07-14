@@ -1,7 +1,7 @@
 ---
 title: Anja Rueten-Budde
 role: Statistical Consultant
-avatar_filename: wp3_anja_ruetenbudde.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Statistics
