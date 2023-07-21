@@ -73,3 +73,8 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+main_menu:
+logo: "logo.png"
+show_title: false
+show_tagline: false
